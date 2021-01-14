@@ -1,2 +1,3 @@
 this is master text
 this is my feature branch text
+this is my feature branch text 2
